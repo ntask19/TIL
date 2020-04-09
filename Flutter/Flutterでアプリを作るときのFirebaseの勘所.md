@@ -1,6 +1,6 @@
-Flutterでアプリを作るときのFirebaseの勘所
+# Flutterでアプリを作るときのFirebaseの勘所
 
-結論、複雑なアプリを作るのでなければFlutter+Firebaseで作れ。
+結論、複雑なアプリを作るのでなければFlutter+Firebaseで作るのが良さそう。
 
 ## 大まかなメリット
 
@@ -37,5 +37,6 @@ Firebase上にAPIを設置できる。Node.jsしか使えないが、Googleの�
 
 ### Firebase Cloud Storage
 
+こちらは未検証。
 
 
